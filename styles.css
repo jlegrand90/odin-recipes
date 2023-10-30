@@ -18,3 +18,26 @@
     text-align: center;
 }
 
+.index {
+    text-align: center;
+    display: block;
+    background-color: rgba(192, 100, 1, 0.826);
+    width: 400px;
+    margin: 0 auto;
+    border: solid;
+    border-color: white;
+    border-style: double;
+
+}
+
+.li {
+    background-image: linear-gradient(to right, red, black);
+    border: white;
+    margin: 2px 100px 2px;
+    color: white;
+
+}
+
+:any-link {
+    color: white;
+}
